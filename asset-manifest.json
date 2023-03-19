@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vouchapp/static/css/main.463c4add.css",
-    "main.js": "/vouchapp/static/js/main.8442f706.js",
+    "main.css": "/vouchapp/static/css/main.82db859b.css",
+    "main.js": "/vouchapp/static/js/main.219153c0.js",
     "static/js/787.3dbbd9a0.chunk.js": "/vouchapp/static/js/787.3dbbd9a0.chunk.js",
     "index.html": "/vouchapp/index.html",
-    "main.463c4add.css.map": "/vouchapp/static/css/main.463c4add.css.map",
-    "main.8442f706.js.map": "/vouchapp/static/js/main.8442f706.js.map",
+    "main.82db859b.css.map": "/vouchapp/static/css/main.82db859b.css.map",
+    "main.219153c0.js.map": "/vouchapp/static/js/main.219153c0.js.map",
     "787.3dbbd9a0.chunk.js.map": "/vouchapp/static/js/787.3dbbd9a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.463c4add.css",
-    "static/js/main.8442f706.js"
+    "static/css/main.82db859b.css",
+    "static/js/main.219153c0.js"
   ]
 }
